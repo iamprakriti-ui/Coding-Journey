@@ -7,6 +7,7 @@ This repository documents my programming journey as I learn and build new skills
 
 ## 🌱 Currently Learning
 - C++
+- Python
 - Problem Solving
 - GitHub
 
